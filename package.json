@@ -1,0 +1,23 @@
+{
+  "name": "retrospective-smells",
+  "version": "1.0.0",
+  "description": "Editors note: This was extracted from Willem Larsen's Twitter feed and it reflects work he did at the end of 2018 into the beginning of 2019.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./node_modules/booklisp/index.js ./readme/readme.src.md ./README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmstead/retrospective-smells.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmstead/retrospective-smells/issues"
+  },
+  "homepage": "https://github.com/cmstead/retrospective-smells#readme",
+  "devDependencies": {
+    "booklisp": "^1.7.3"
+  }
+}
