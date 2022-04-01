@@ -10,7 +10,7 @@ The next anti-patterns are process-oriented, rather than expectation/assumptions
 - **LOST CAUSE** - When the facilitator is responsible for the effectiveness and outcome of the retro.
 - **CONFLICT OF INTEREST** - When facilitator offers data, insights, and next actions.
 - **THE BLOB** - A retro with no timebox, or that consistently exceeds its timebox, even with consent of participants.
-- **TOLD YOU SO** - A retro that generations next actions that we were going to do anyway, from data and insights we already shared going in.
+- **TOLD YOU SO** - A retro that generates next actions that we were going to do anyway, from data and insights we already shared going in.
 - **FIRE AND FORGET** - Next actions dropped because they were fundamentally uninteresting - the team agreed on them but didn't believe in them.
 
 ### Expansion on Why I Told You So is an Antipattern ###
